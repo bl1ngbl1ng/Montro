@@ -10,7 +10,7 @@
 ### Cloning the git respository
 ```
 $ git clone https://github.com/bl1ngbl1ng/Montro
-$ cd Montro
+$ cd Montro/src/
 ```
 ### Running
 ```
